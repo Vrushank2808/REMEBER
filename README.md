@@ -13,7 +13,9 @@
 
 ---
 
-## Overviewcces exhaustive after-action reviews, technical post-mortems, and commission inquiries. Yet across jurisdictions, these lessons remain trapped inside static PDF archives. When the next crisis strikes, the same roads submerge, the same basement hospital generators fail, and emergency responders are forced to reinvent emergency logistics under extreme duress.
+## Overview
+
+Every major disaster produces exhaustive after-action reviews, technical post-mortems, and commission inquiries. Yet across jurisdictions, these lessons remain trapped inside static PDF archives. When the next crisis strikes, the same roads submerge, the same basement hospital generators fail, and emergency responders are forced to reinvent emergency logistics under extreme duress.
 
 **RE:MEMBER** solves this institutional amnesia. It is an **AI-powered institutional memory platform** built for disaster managers, emergency operations centers (EOCs), urban planners, and humanitarian coordinators. By converting unstructured historical incident reports into an active, queryable knowledge graph, RE:MEMBER provides real-time tactical pattern matching, counterfactual scenario simulations, and actionable preparedness intelligence.
 
